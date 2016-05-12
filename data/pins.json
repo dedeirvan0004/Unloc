@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Elephants",
+		"latitude": 39.749157,
+		"longitude": -104.953616
+	},
+	{
+		"name": "Tigers",
+		"latitude": 39.749817,
+		"longitude": -104.949195
+	},
+	{
+		"name": "Seals",
+		"latitude": 39.748712,
+		"longitude": -104.948616
+	},
+	{
+		"name": "Gorillas",
+		"latitude": 39.750444,
+		"longitude": -104.954817
+	}
+]
